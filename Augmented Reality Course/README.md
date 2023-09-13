@@ -16,5 +16,12 @@
 * Lightship - https://lightship.dev/
 * Sketchfab - https://sketchfab.com/
 * Ready Player Me - https://readyplayer.me/
+* Free3d - https://free3d.com/
+* Nasa 3D - https://nasa3d.arc.nasa.gov/
+* Render Hub - https://www.renderhub.com/
+* OpenGameArt - https://opengameart.org/
+* Archive3d - https://archive3d.net/
+* Mixamo - https://www.mixamo.com/#/
+* Smithsonian - https://www.si.edu/
 ## Projects
 * AR-Encyclopedia - https://github.com/Priyanshu-CODERX/AR001P3-AR-Encyclopedia
