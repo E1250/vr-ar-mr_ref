@@ -23,5 +23,6 @@
 * Archive3d - https://archive3d.net/
 * Mixamo - https://www.mixamo.com/#/
 * Smithsonian - https://www.si.edu/
+* Aryel - https://aryel.io/
 ## Projects
 * AR-Encyclopedia - https://github.com/Priyanshu-CODERX/AR001P3-AR-Encyclopedia
